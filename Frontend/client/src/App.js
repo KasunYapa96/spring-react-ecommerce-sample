@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div style={{ padding: "2rem" }}>
-      <h1>Product List</h1>
+      <h1>Kasun Yapa Deployed the web</h1>
       <div style={{ display: "flex", gap: "1rem" }}>
         {products.map((product) => (
           <div key={product.id} style={{ border: "1px solid #ccc", padding: "1rem" }}>
